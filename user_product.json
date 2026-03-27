@@ -1,0 +1,30 @@
+[
+    {
+        "user": "seku@gmail.com",
+        "data": [
+            {
+                "id": 1,
+                "name": "mango",
+                "price": 150,
+                "quantity": 15
+            },
+            {
+                "id": 2,
+                "name": "apple",
+                "price": 340,
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "user": "ametu@gmail.com",
+        "data": [
+            {
+                "id": 2,
+                "name": "apple",
+                "price": 340,
+                "quantity": 3
+            }
+        ]
+    }
+]
